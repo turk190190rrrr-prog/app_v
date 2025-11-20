@@ -1,4 +1,4 @@
 {
-  "v": "1.1",
+  "v": "1.2",
   "link": "https://web.rubika.ir/"
 }
